@@ -1,0 +1,23 @@
+19:41:27.126 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:42:00.560 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:43:04.775 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:43:46.273 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:50:38.260 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:51:42.840 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:53:13.628 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:53:35.665 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:54:54.797 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+19:55:47.589 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:04:56.958 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:07:04.679 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:23:46.977 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:25:09.294 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:28:31.744 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:28:35.172 [main] INFO  testCases.AccountRegistrationPageTest - providing customer details
+20:28:35.172 [main] INFO  testCases.AccountRegistrationPageTest - Test is Failed
+20:30:04.201 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:30:10.655 [main] INFO  testCases.AccountRegistrationPageTest - providing customer details
+20:30:10.656 [main] INFO  testCases.AccountRegistrationPageTest - Test is Failed
+20:30:47.492 [main] INFO  testCases.AccountRegistrationPageTest - ******Starting AccountRegistrationTest******
+20:30:53.925 [main] INFO  testCases.AccountRegistrationPageTest - providing customer details
+20:30:53.926 [main] INFO  testCases.AccountRegistrationPageTest - Test is Failed
